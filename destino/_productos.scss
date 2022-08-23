@@ -1,0 +1,30 @@
+/* Productos*/
+.Titulo2{
+    text-align: center;
+    padding: 30px;
+}
+.Productos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    img{
+        border-radius: 10px;
+    
+    }
+    
+}
+
+.Productos img:hover {
+    transform: scale(1);
+}
+.Palitos{
+    width: 90%;
+    margin: auto;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.Carta{
+  background-size: cover;
+}
+    

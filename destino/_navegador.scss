@@ -1,0 +1,29 @@
+/* Navegador*/
+.Titulo{
+    text-align: center;
+}
+.Menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+    ul{
+        display: flex;
+        li{
+            padding: 20px;
+          }
+      }
+    }
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+    width: 150px;
+    padding: 30px;
+}
+.Redes{
+    display: flex;
+    justify-content: end;
+}
